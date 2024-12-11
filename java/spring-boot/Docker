@@ -1,0 +1,14 @@
+# Packaging a SpringBoot app as a Docker image
+
+## Different packaging methods
+
+https://medium.com/@ksaquib/docker-3-ways-to-dockerize-spring-boot-you-need-to-know-now-07d2e2dd7668
+
+https://www.baeldung.com/dockerizing-spring-boot-application
+
+## Configuring & using multiple profiles and properties files
+
+https://dev.to/minuth/dockerized-spring-boot-with-multi-environment-configs-5h4p  
+
+https://www.baeldung.com/spring-boot-docker-start-with-profile
+
